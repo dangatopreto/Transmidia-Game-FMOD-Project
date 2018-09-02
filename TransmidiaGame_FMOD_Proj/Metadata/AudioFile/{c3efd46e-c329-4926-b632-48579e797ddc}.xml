@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c3efd46e-c329-4926-b632-48579e797ddc}">
+        <property name="assetPath">
+            <value>UI/drawKnife1.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.39970833333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{59fab97c-475e-47c3-92fa-22e9e985a2b4}</destination>
+        </relationship>
+    </object>
+</objects>

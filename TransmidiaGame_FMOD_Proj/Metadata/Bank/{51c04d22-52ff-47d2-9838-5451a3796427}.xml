@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Bank" id="{51c04d22-52ff-47d2-9838-5451a3796427}">
+        <property name="name">
+            <value>Camp_Phase_Bank</value>
+        </property>
+        <relationship name="folder">
+            <destination>{de7d8399-d5d0-45d3-99e9-93227cd7f47c}</destination>
+        </relationship>
+    </object>
+</objects>

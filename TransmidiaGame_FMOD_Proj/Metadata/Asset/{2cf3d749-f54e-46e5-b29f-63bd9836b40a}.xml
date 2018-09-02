@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{2cf3d749-f54e-46e5-b29f-63bd9836b40a}">
+        <property name="assetPath">
+            <value>CAMP/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{59fab97c-475e-47c3-92fa-22e9e985a2b4}</destination>
+        </relationship>
+    </object>
+</objects>

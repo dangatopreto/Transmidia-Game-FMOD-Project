@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{0eb087f7-0bb1-418e-aa55-117e90af5132}">
+        <property name="assetPath">
+            <value>MUSIC/Rites.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>126.91200000000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{59fab97c-475e-47c3-92fa-22e9e985a2b4}</destination>
+        </relationship>
+    </object>
+</objects>
