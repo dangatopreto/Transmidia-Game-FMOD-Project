@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{b35556cf-4aa9-4265-88e7-d06b558a20f9}">
-        <relationship name="selectables">
-            <destination>{7a4ac248-c710-42a6-aaa6-593859df64c2}</destination>
-        </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{37396891-b768-4ada-85be-2e015f0b1ffb}</destination>
         </relationship>
@@ -15,7 +12,7 @@
     <object class="GroupTrack" id="{e3bba0ae-128b-4b68-8b0a-f4d751978a50}"/>
     <object class="Timeline" id="{37396891-b768-4ada-85be-2e015f0b1ffb}">
         <property name="uiLastRulerScaleRatio">
-            <value>0.0017232482647229189</value>
+            <value>0.0016214649381765282</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{37019c81-c932-417f-a420-1ed2645962f2}">

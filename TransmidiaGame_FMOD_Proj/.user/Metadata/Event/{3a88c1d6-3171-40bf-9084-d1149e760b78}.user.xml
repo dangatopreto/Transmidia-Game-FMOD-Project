@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{3a88c1d6-3171-40bf-9084-d1149e760b78}">
+        <relationship name="selectables">
+            <destination>{1ddb44ba-d201-4c74-a060-8efa5ae3f684}</destination>
+        </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{c5c33fb8-115b-418f-b4c7-831007a5c43e}</destination>
         </relationship>
@@ -12,7 +15,7 @@
     <object class="GroupTrack" id="{b26e514d-d998-4d74-b0a1-812ee9f89117}"/>
     <object class="Timeline" id="{c5c33fb8-115b-418f-b4c7-831007a5c43e}">
         <property name="uiLastRulerScaleRatio">
-            <value>0.026155187445510025</value>
+            <value>0.098082402772429716</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{b7a2aeae-d0d4-4e19-af49-a9b7bfb93b32}">
@@ -31,5 +34,6 @@
     <object class="MixerBusEffectChain" id="{0a45c5f3-8d65-4fa6-8bca-e280a130800d}"/>
     <object class="MixerBusPanner" id="{834bdc2f-1e12-452e-8ea5-bd8053270bb7}"/>
     <object class="MixerBusFader" id="{d5312b09-a2f0-483c-8333-85d10bb4889f}"/>
+    <object class="LoudnessMeter" id="{c7e8a4b4-23ff-492f-997f-d2320ba17453}"/>
     <object class="MixerBusFader" id="{af4cedbf-84df-41d9-a56f-1314f42a5a53}"/>
 </objects>

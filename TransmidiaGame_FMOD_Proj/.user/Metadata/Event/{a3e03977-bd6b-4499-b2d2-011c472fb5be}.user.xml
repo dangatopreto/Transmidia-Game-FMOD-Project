@@ -12,7 +12,7 @@
     <object class="GroupTrack" id="{c4d40c21-c28a-4a85-8c8b-0cab1629404b}"/>
     <object class="Timeline" id="{1d92265b-74b2-43af-966a-2e078a6c2b3e}">
         <property name="uiLastRulerScaleRatio">
-            <value>0.00040075377797151989</value>
+            <value>0.00037708333333333333</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{a63deef4-7faf-4cfb-9402-bdb104d5feed}">

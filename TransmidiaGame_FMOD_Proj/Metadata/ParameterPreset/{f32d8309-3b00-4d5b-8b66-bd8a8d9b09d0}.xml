@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{f32d8309-3b00-4d5b-8b66-bd8a8d9b09d0}">
+        <property name="name">
+            <value>endCampSong</value>
+        </property>
+        <relationship name="folder">
+            <destination>{266db9f0-456f-4372-aba1-f3f25b25503c}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{38c1e2da-88a3-4a1b-b3b6-9f69c425dc4e}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{38c1e2da-88a3-4a1b-b3b6-9f69c425dc4e}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
