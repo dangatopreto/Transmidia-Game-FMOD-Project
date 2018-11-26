@@ -5,7 +5,7 @@
             <value>15</value>
         </property>
         <relationship name="selectables">
-            <destination>{6cc17f20-a4a6-4efd-a049-4571aa2a4284}</destination>
+            <destination>{10b6d0b4-41ef-4cdb-af7c-85677abb9049}</destination>
         </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{141efad7-a434-469b-9321-230d907ce52d}</destination>
